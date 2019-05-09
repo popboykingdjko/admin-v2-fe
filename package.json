@@ -1,0 +1,7 @@
+{
+  "name": "admin-v2-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "popboy <kingdjko@tju.edu.cn>",
+  "license": "MIT"
+}
